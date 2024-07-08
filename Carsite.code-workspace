@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Carsite",
+			"path": "."
+		},
+		{
+			"name": "site",
+			"path": "../site"
+		}
+	],
+	"settings": {}
+}
