@@ -3,7 +3,7 @@
 .top {
     // hero section
     .hero {
-        background-image: url(/images/main-visual.jpg);
+        background-image: url("../images/main-visual.jpg");
         background-position: center;
         background-size: cover;
         background-attachment: fixed;
@@ -93,7 +93,7 @@
 
     // about section
     .about {
-        background-image: url(/images/about-visual.jpg);
+        background-image: url("../images/about-visual.jpg");
         background-size: cover;
         background-attachment: fixed;
         position: relative;
@@ -242,7 +242,7 @@
 
     // access section
     .access {
-        background-image: url(/images/access-visual.jpg);
+        background-image: url("../images/access-visual.jpg");
         background-size: cover;
         background-attachment: fixed;
         position: relative;
@@ -338,7 +338,7 @@
 
     // form section
     .form {
-        background-image: url(/images/form-visual.jpg);
+        background-image: url("../images/form-visual.jpg");
         background-size: cover;
         background-attachment: fixed;
         position: relative;
